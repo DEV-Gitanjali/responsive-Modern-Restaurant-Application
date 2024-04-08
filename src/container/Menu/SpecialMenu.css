@@ -1,6 +1,6 @@
-.app__specialMenu{
+.app__specialMenu {
     flex-direction: column;
-    background-color: var(--color-black);
+    background: var(--color-black);
 }
 
 .app__specialMenu-title {
@@ -51,7 +51,6 @@
     margin: 2rem 0;
     width: 100%;
 }
-
 
 @media screen and (min-width: 2000px) {
     .app__specialMenu-menu_img {
